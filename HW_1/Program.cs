@@ -11,7 +11,8 @@ void FillArray(int[] array, int min, int max){
     array[i] = new Random().Next(min, max);
   }
 }
-void WriteArray(int[] array){
+void WriteArray(int[] array)
+{
     for (int i = 0; i<array.Length; i++ ){
     Console.Write(array[i] + " ");
   }
