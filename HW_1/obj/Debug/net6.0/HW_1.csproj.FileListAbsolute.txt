@@ -1,0 +1,15 @@
+E:\programmer\C#5\homework_C-_5\HW_1\bin\Debug\net6.0\HW_1.exe
+E:\programmer\C#5\homework_C-_5\HW_1\bin\Debug\net6.0\HW_1.deps.json
+E:\programmer\C#5\homework_C-_5\HW_1\bin\Debug\net6.0\HW_1.runtimeconfig.json
+E:\programmer\C#5\homework_C-_5\HW_1\bin\Debug\net6.0\HW_1.dll
+E:\programmer\C#5\homework_C-_5\HW_1\bin\Debug\net6.0\HW_1.pdb
+E:\programmer\C#5\homework_C-_5\HW_1\obj\Debug\net6.0\HW_1.csproj.AssemblyReference.cache
+E:\programmer\C#5\homework_C-_5\HW_1\obj\Debug\net6.0\HW_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\programmer\C#5\homework_C-_5\HW_1\obj\Debug\net6.0\HW_1.AssemblyInfoInputs.cache
+E:\programmer\C#5\homework_C-_5\HW_1\obj\Debug\net6.0\HW_1.AssemblyInfo.cs
+E:\programmer\C#5\homework_C-_5\HW_1\obj\Debug\net6.0\HW_1.csproj.CoreCompileInputs.cache
+E:\programmer\C#5\homework_C-_5\HW_1\obj\Debug\net6.0\HW_1.dll
+E:\programmer\C#5\homework_C-_5\HW_1\obj\Debug\net6.0\refint\HW_1.dll
+E:\programmer\C#5\homework_C-_5\HW_1\obj\Debug\net6.0\HW_1.pdb
+E:\programmer\C#5\homework_C-_5\HW_1\obj\Debug\net6.0\HW_1.genruntimeconfig.cache
+E:\programmer\C#5\homework_C-_5\HW_1\obj\Debug\net6.0\ref\HW_1.dll
