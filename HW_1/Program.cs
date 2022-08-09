@@ -34,4 +34,4 @@ Console.WriteLine(" В массиве [" + string.Join(", ",numbers) + "]");
 
 int quant= QuantPositive(numbers);
 Console.WriteLine($"==> {quant}");
-//Console.WriteLine("вот, твой рандомный массив из восьми эллементов [" + string.Join(", ",array) + "]");
+Console.WriteLine("вот, твой рандомный массив из восьми эллементов [" + string.Join(", ",array) + "]");
