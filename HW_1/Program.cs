@@ -3,35 +3,41 @@
 
 //[345, 897, 568, 234] -> 2
 
-Console.WriteLine($" Количество чётных чисел ");
-int[] numbers = new int[10];
+Console.Clear();
+Console.WriteLine($"В этом массиве:\n");
+int[] numbers = new int[7];
 
-void FillArray(int[] array, int min, int max){
+void FillArray(int[] array, int min, int max)
+{
   for (int i = 0; i<array.Length; i++ ){
     array[i] = new Random().Next(min, max);
   }
 }
+
 void WriteArray(int[] array)
 {
     for (int i = 0; i<array.Length; i++ ){
-    Console.Write(array[i] + " ");
+    
   }
+  Console.Write('['+string.Join(", ",array) + ']');
   Console.WriteLine();
 }
-int QuantPositive(int[] array){
-    int quant = 0;
+
+int amounteven(int[] array){
+    int even = 0;
     for (int i = 0; i<array.Length; i++ ){
     if (array[i] % 2 == 0)
     {
-      quant++;
+      even++;
     }
   }
-  return quant;
+  return even;
 }
 
 FillArray(numbers, 100, 1000);
-Console.WriteLine(" В массиве [" + string.Join(", ",numbers) + "]");
+WriteArray( numbers);
+Console.WriteLine();
 
-int quant= QuantPositive(numbers);
-Console.WriteLine($"==> {quant}");
-Console.WriteLine("вот, твой рандомный массив из восьми эллементов [" + string.Join(", ",array) + "]");
+int even = amounteven(numbers);
+Console.WriteLine($"количество чётных чисел равно: {even}");
+Console.WriteLine();
